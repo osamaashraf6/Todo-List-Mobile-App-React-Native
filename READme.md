@@ -23,6 +23,8 @@
 
 <!-- PROJECT DESCRIPTION -->
 
+![Image](https://github.com/user-attachments/assets/acfb7f64-5030-4e87-b091-39e3ad8d9c8d)
+
 # 📖 Todo-List-React-Native
 <a name="about-project"></a>
 
